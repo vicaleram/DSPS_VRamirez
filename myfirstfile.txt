@@ -1,7 +1,4 @@
-whatever
-<<<<<<< HEAD
-this is gonna go wrong...
-this is gonna go wrong...
-=======
-hello 
->>>>>>> 65ff9fa20706ae7166de8bec9f87037de47e43ed
+
+This is not gonna go wrong
+Hi it's Liam
+
