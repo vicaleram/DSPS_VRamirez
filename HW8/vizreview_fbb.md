@@ -6,4 +6,6 @@ The choice of displaying both points and line is however distracting and the upp
 
 I recommand some changes in [this notebook](https://github.com/vicaleram/DSPS_VRamirez/blob/master/HW8/Copy_of_Homework8.ipynb) that lead to [this figure](download.png)
 
+![img](download.png)
+
 
